@@ -26,7 +26,7 @@ cd dirstructx
 pip install -r requirements.txt
 ```
 
-Or install via `pip` (if published on PyPI):
+Or install via `pip`:
 
 ```sh
 pip install dirstructx
